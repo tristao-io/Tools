@@ -966,4 +966,4 @@ Examples:
   }
   ########## EXECUTION ##########
 }
-tristanIsolda -c tristao.io -p 8000 -e cmd -v
+tristaoIsolda -c tristao.io -p 8000 -e cmd -v
